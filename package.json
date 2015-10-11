@@ -1,0 +1,27 @@
+{
+  "name": "learn-bootstrap-sass",
+  "version": "1.0.0",
+  "description": "This is for the youtube tutorials on the easydevtuts channel",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cresencio/learn-bootstrap-sass.git"
+  },
+  "keywords": [
+    "scss",
+    "bootstrap"
+  ],
+  "author": "@cresencio",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/cresencio/learn-bootstrap-sass/issues"
+  },
+  "homepage": "https://github.com/cresencio/learn-bootstrap-sass#readme",
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.5",
+    "browser-sync": "^2.9.11",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.0.2",
+    "gulp-html-tag-include": "^1.0.1",
+    "gulp-sass": "^2.0.4"
+  }
+}
